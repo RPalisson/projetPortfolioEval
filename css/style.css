@@ -1,10 +1,10 @@
-header{
+.header{
     height: 90px;
-    background-color: #534C98;
+    background: #534C98;
 }
 
-main{
-    background-color: #B767FF);
+.main{
+    background: #B767FF);
 }
 
 #titre{
