@@ -1,10 +1,23 @@
-.header{
+header{
     height: 90px;
-    background: #534C98;
+    color: #534C98;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
 }
 
-.main{
-    background: #B767FF);
+main{
+    color: #B767FF);
+}
+
+footer{
+    height:90px
+    color: #534C98;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }
 
 #titre{
