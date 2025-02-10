@@ -1,6 +1,6 @@
 .header{
     height: 90px;
-    color: #534C98;
+    background-color: #534C98;
     position: fixed;
     left: 0;
     top: 0;
@@ -8,12 +8,13 @@
 }
 
 .main{
-    color: #B767FF);
+    background-color: #B767FF);
+    min-height: 100vh;
 }
 
 .footer{
     height:90px
-    color: #534C98;
+    background-color: #534C98;
     position: fixed;
     left: 0;
     bottom: 0;
