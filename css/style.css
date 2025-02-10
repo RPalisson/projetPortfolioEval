@@ -1,4 +1,4 @@
-header{
+.header{
     height: 90px;
     color: #534C98;
     position: fixed;
@@ -7,11 +7,11 @@ header{
     width: 100%;
 }
 
-main{
+.main{
     color: #B767FF);
 }
 
-footer{
+.footer{
     height:90px
     color: #534C98;
     position: fixed;
