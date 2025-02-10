@@ -1,3 +1,8 @@
+body{
+    background-color: #B767FF
+    min-height: 100vh;
+}
+
 .header{
     height: 90px;
     background-color: #534C98;
@@ -5,11 +10,6 @@
     left: 0;
     top: 0;
     width: 100%;
-}
-
-.main{
-    background-color: #B767FF);
-    min-height: 100vh;
 }
 
 .footer{
