@@ -1,17 +1,10 @@
-:root{
-    --couleur-A: #FFEE7D
-    --couleur-B: #534C98
-    --couleur-C: #B767FF
-    --couleur-D: #44FADD
-}
-
 header{
     height: 90px;
-    background-color: var(--couleur-B);
+    background-color: #534C98;
 }
 
 main{
-    background-color: var(--couleur-C);
+    background-color: #B767FF);
 }
 
 #titre{
@@ -22,14 +15,14 @@ main{
 }
 
 .detail{
-    color: var(--couleur-D);
+    color: #44FADD;
     font-family: "Flamenco", serif;
     font-weight: 400;
     font-style: normal;
 }
 
 .detail:hover{
-    color: var(--couleur-A);
+    color: #FFEE7D;
 }
 
 article{
